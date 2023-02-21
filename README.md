@@ -3,9 +3,21 @@ nmap's py tool
 
 ## 简介
 
-看了红队笔记的视频，用其思路写了个自动工具。
+看了红队笔记的视频，用其思路写了个自动 nmap 扫描脚本。
 
+正在扫描的图片:
 
+![scaning](images/scaning.png)
+
+输出的 markdown 文件: 
+
+![out1](images/out1.png)
+
+![out2](images/out2.png)
+
+生成的其他文件:
+
+![file](images/files.png)
  
 ## 使用方法
 
